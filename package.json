@@ -1,0 +1,13 @@
+{
+  "name": "celo-configs",
+  "version": "0.0.0",
+  "description": "Monorepo for shared Celo configurations",
+  "main": "index.js",
+  "author": "Daniel Kesler",
+  "license": "MIT",
+  "workspaces": [
+    "@celo/eslint",
+    "@celo/tsconfig"
+  ],
+  "devDependencies": {}
+}
