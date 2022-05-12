@@ -1,0 +1,4 @@
+{
+  "extends": "../celo-typescript/tsconfig.json",
+  "include": ["**/*.tsx", "**/*.ts"]
+}

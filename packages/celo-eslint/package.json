@@ -1,0 +1,51 @@
+{
+  "name": "@celo/eslint-config",
+  "version": "0.0.1",
+  "description": "Shared eslint config for Celo projects",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "author": "Daniel Kesler",
+  "license": "MIT",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": ">=5.0.0",
+    "@typescript-eslint/parser": ">=5.0.0",
+    "eslint": ">=8.0.0",
+    "eslint-config-prettier": ">=8.0.0",
+    "eslint-plugin-import": ">=2.0.0",
+    "eslint-plugin-jsx-a11y": ">=6.0.0",
+    "eslint-plugin-prettier": ">=4.0.0",
+    "eslint-plugin-react": ">=7.0.0",
+    "eslint-plugin-react-hooks": ">=4.0.0",
+    "eslint-plugin-unused-imports": ">=2.0.0",
+    "eslint-plugin-workspaces": ">=0.7.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/celo-configs/celo-eslint"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.9",
+    "@typescript-eslint/eslint-plugin": "^5.22.0",
+    "@typescript-eslint/parser": "^5.22.0",
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jest": "^26.2.2",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.5.0",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "eslint-plugin-workspaces": "^0.7.0",
+    "react": "^18.1.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@celo/typescript",
+  "version": "0.0.1",
+  "description": "Shared tsconfig for Celo projects",
+  "author": "Daniel Kesler",
+  "license": "MIT",
+  "files": ["tsconfig.json"],
+  "keywords": ["tsconfig", "typescript", "ts", "config", "configuration"],
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/celo-configs/celo-tsconfig"
+  }
+}
