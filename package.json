@@ -6,8 +6,8 @@
   "author": "Daniel Kesler",
   "license": "MIT",
   "workspaces": [
-    "@celo/eslint",
-    "@celo/tsconfig"
+    "@celo/eslint-config",
+    "@celo/typescript"
   ],
   "devDependencies": {}
 }
